@@ -1,5 +1,89 @@
 # formio
 
+## 4.6.1
+
+### Patch Changes
+
+- b867420: FIO-10662: removed IP data from submission metadata by default
+- f6e33b8: FIO-10564: Fix lock duplication by converting db/install script to async/await
+- 4e88b7a: FIO-10899: fixed an issue where instance is not available for evaluations on server-side for content components
+- af9e509: allow actions to be created if you have update form definition permissions
+- 73058a8: FIO-10786: sanitize email data
+- cc8eb1c: FIO-11051: fixed an issue where Select components with save as reference don't dereference their data on programmatic submission, resulting in validation errors
+- Updated dependencies [4b6b065]
+- Updated dependencies [8c13733]
+- Updated dependencies [3ea92c5]
+- Updated dependencies [9e53993]
+- Updated dependencies [83f3a1b]
+- Updated dependencies [409a807]
+- Updated dependencies [4e88b7a]
+- Updated dependencies [f5fa215]
+- Updated dependencies [a5bd18b]
+- Updated dependencies [550e172]
+- Updated dependencies [cde1d5b]
+- Updated dependencies [d85c263]
+- Updated dependencies [c93015f]
+- Updated dependencies [5fffacd]
+- Updated dependencies [5afcf81]
+- Updated dependencies [75db166]
+- Updated dependencies [cc8eb1c]
+  - @formio/js@5.3.1
+  - @formio/core@2.6.1
+
+## 4.6.1-api97.4
+
+### Patch Changes
+
+- Updated dependencies [550e172]
+  - @formio/js@5.3.1-api97.4
+
+## 4.6.1-api97.3
+
+### Patch Changes
+
+- Updated dependencies [a5bd18b]
+  - @formio/js@5.3.1-api97.3
+
+## 4.6.1-api97.2
+
+### Patch Changes
+
+- Updated dependencies [f5fa215]
+  - @formio/js@5.3.1-api97.2
+
+## 4.6.1-api97.1
+
+### Patch Changes
+
+- Updated dependencies [83f3a1b]
+- Updated dependencies [cde1d5b]
+  - @formio/js@5.3.1-api97.1
+
+## 4.6.1-api97.0
+
+### Patch Changes
+
+- b867420: FIO-10662: removed IP data from submission metadata by default
+- f6e33b8: FIO-10564: Fix lock duplication by converting db/install script to async/await
+- 4e88b7a: FIO-10899: fixed an issue where instance is not available for evaluations on server-side for content components
+- af9e509: allow actions to be created if you have update form definition permissions
+- 73058a8: FIO-10786: sanitize email data
+- cc8eb1c: FIO-11051: fixed an issue where Select components with save as reference don't dereference their data on programmatic submission, resulting in validation errors
+- Updated dependencies [4b6b065]
+- Updated dependencies [8c13733]
+- Updated dependencies [3ea92c5]
+- Updated dependencies [9e53993]
+- Updated dependencies [409a807]
+- Updated dependencies [4e88b7a]
+- Updated dependencies [d85c263]
+- Updated dependencies [c93015f]
+- Updated dependencies [5fffacd]
+- Updated dependencies [5afcf81]
+- Updated dependencies [75db166]
+- Updated dependencies [cc8eb1c]
+  - @formio/js@5.3.1-api97.0
+  - @formio/core@2.6.1-api97.0
+
 ## 4.6.0
 
 ### Minor Changes
